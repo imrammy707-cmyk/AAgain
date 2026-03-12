@@ -62,6 +62,9 @@ public class Prac {
 
 
         System.out.println("Before lunch changes");
+
+
+        System.out.println("Final update before EOD in console");
         WebDriverWait wait=new WebDriverWait(driver, Duration.ofSeconds(10));
     }
 
